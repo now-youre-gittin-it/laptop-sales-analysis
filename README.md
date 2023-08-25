@@ -4,8 +4,8 @@
 Analyze the laptop sales across multiple retail outlets in the year 2015 to determine optimal pricing strategies and store locations for maximum sales in 2016.
 
 ## Tools used
-Tableau Public
-Tableau Desktop Public Edition
+1. Tableau Public
+2. Tableau Desktop Public Edition
 
 ## Approach 
 - The best-selling laptop configurations are identified. 
